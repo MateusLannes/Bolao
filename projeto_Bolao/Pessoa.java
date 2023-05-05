@@ -8,7 +8,6 @@ public class Pessoa {
 
     public Pessoa() {
         Scanner r = new Scanner(System.in);
-
         System.out.printf("Digite o nome: ");
         this.nome = r.nextLine();
 
